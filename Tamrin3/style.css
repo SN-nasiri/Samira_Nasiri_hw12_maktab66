@@ -1,1 +1,12 @@
-.div{width:100%;padding-top:20%;height:100px;background-color:#f0f8ff}main{width:80%;height:350px;background-color:aqua;margin:100px auto}
+.div {
+  width: 100%;
+  padding-top: 20%;
+  height: 100px;
+  background-color: #f0f8ff;
+}
+main {
+  width: 80%;
+  height: 350px;
+  background-color: aqua;
+  margin: 100px auto;
+}
